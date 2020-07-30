@@ -1791,9 +1791,9 @@
     "restore": {
       "projectUniqueName": "UipathDemo",
       "projectName": "UipathDemo",
-      "projectPath": "D:\\Office\\UiPath-FirstGIt\\UipathDemo\\.local",
+      "projectPath": "H:\\Office\\UiPath-FirstGIt\\UipathDemo\\.local",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Office\\UiPath-FirstGIt\\UipathDemo\\.local"
+      "outputPath": "H:\\Office\\UiPath-FirstGIt\\UipathDemo\\.local"
     },
     "frameworks": {
       "net461": {
